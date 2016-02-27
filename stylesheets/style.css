@@ -1,0 +1,17 @@
+body {
+	background-color: silver; 
+}
+.container {
+	margin-top: 40px; 
+	min-height: 600px; 
+	max-height: 800px; 
+	background: linear-gradient(90deg, blue, orange);  
+	box-shadow: 0px 0px 30px black inset; 
+}
+h1 {text-align: center; }
+.links {text-align: center;}
+button {
+	box-shadow: 6px 6px 8px black; 
+	color: grey;
+}
+.row {margin-top: 10px;}
